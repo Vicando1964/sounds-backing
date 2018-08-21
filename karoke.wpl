@@ -1,0 +1,33 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.321"/>
+        <title>karoke</title>
+    </head>
+    <body>
+        <seq>
+            <smartPlaylist version="1.0.0.0">
+                <querySet>
+                    <sourceFilter id="{4202947A-A563-4B05-A754-A1B4B5989849}" name="Music in my library">
+                        <fragment name="Acquisition Date">
+                            <argument name="condition">Is Later Than</argument>
+                            <argument name="value">Last month</argument>
+                        </fragment>
+                    </sourceFilter>
+                </querySet>
+                <querySet>
+                    <sourceFilter id="{4202947A-A563-4B05-A754-A1B4B5989849}" name="Music in my library"/>
+                </querySet>
+                <querySet>
+                    <sourceFilter id="{4202947A-A563-4B05-A754-A1B4B5989849}" name="Music in my library"/>
+                </querySet>
+                <querySet>
+                    <sourceFilter id="{4202947A-A563-4B05-A754-A1B4B5989849}" name="Music in my library"/>
+                </querySet>
+                <querySet>
+                    <sourceFilter id="{4202947A-A563-4B05-A754-A1B4B5989849}" name="Music in my library"/>
+                </querySet>
+            </smartPlaylist>
+        </seq>
+    </body>
+</smil>
